@@ -1,0 +1,103 @@
+body{
+    background-color: #242B2D;
+    text-align: center;
+}
+.container{
+    display: inline-block;
+    text-align: center;
+    width: 322px;
+    height: 550px;
+    background-color:#DEE4E7;    
+    border-radius: 10px;
+}
+table{
+    margin: auto;
+    width: 100px;
+}
+button{
+    font-size:x-large;
+    width: 73px;
+    height: 73px;
+    background-color: #a2b2b8;
+    border:none;
+    color: #242B2D;
+    font-size: large;
+    font-weight: bold ;
+    float:left;
+    border-radius: 3px;
+}
+input{
+    background-color: #A2B2B8;
+    border:none;
+    width: 300px;
+    height: 75px;
+    font-family:sans-serif ;
+    font-size: large;
+    font-weight:bold;
+    border-radius: 10px;
+}
+button:hover{
+    background-color:  #242B2D ;
+    border:none;
+    color: white;
+}
+.button8 {
+    background-color: #242B2D;    ;
+    color:white;
+}
+.button1{
+    background-color: crimson;
+    color:white;
+}
+.button2{
+    background-color: #6F828A;
+}
+.button3{
+    background-color:  #6F828A;
+}
+.button4{
+    background-color: #6F828A;
+}
+.button5{
+    background-color:  #6F828A;
+}
+.button6{
+    background-color: #6F828A;
+}
+.button7{
+    background-color:  #6F828A;
+}
+.button9{
+    background-color:  #6F828A;
+}
+.button10{
+    background-color:  #6F828A;
+}
+.button1:hover{
+    background-color:crimson;
+    color:white;
+}
+.button2:hover{
+    background-color: #242B2D;
+    color: white;
+}
+.button3:hover{
+    background-color: #242B2D;
+    color:  white;
+}
+.button4:hover{
+    background-color:#242B2D;
+    color:  white;
+}
+.button5:hover{
+    background-color: #242B2D;
+    color:  white;
+}
+.button6:hover{
+    background-color: #242B2D;
+    color:  white;
+}
+.button7:hover{
+    background-color:  #242B2D;
+    color: white;
+}
